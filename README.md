@@ -4,7 +4,7 @@ This Repositary is a brief explanation about my journey in leaning SQL
 
 Welcome to the **MySQL Learning Roadmap**! This guide is designed to take you through the essential steps from basic database concepts to mastering advanced MySQL features. Let’s embark on this exciting learning journey! 🌟
 
-![3D MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.png)
+
 
 ## 🌐 Roadmap Overview
 
@@ -112,7 +112,7 @@ This roadmap will help you learn MySQL in a structured manner, with clearly defi
 
 ---
 
-## 🔮 **MySQL in Real World Applications**
+## 🔮 **MySQL and its Real World Applications**
 
    - 🛠️ **Database Design**: Design and structure databases for applications.
    - 🌐 **Web Integration**: Learn how to connect MySQL with backend frameworks (e.g., Python with MySQL).
